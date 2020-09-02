@@ -1,0 +1,18 @@
+{
+    "require": {
+        "illuminate/database": "^5.8",
+        "league/plates": "^3.3",
+        "bulveyz/router-php": "^1.0",
+        "aura/filter": "^2.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+			
+        }
+
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
